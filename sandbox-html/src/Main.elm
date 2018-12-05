@@ -4,7 +4,7 @@ import Browser
 import Html exposing (Html, text)
 
 
-main : Program () () (Html Int)
+main : Program () () (Html ())
 main =
     Browser.sandbox
         { init = ()
