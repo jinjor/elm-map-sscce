@@ -19,3 +19,17 @@ Map.! SSCCE
 - ProcessId
 - Decoder
 - Program
+- Seed
+- Generator
+- File
+- () -> ()
+- elm/http
+  - Header
+  - Body
+  - Part
+  - Error
+  - Expect
+  - Response
+  - Metadata
+  - Resolver
+  
