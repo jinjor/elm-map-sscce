@@ -1,4 +1,4 @@
-https://github.com/jinjor/elm-map-debug/tree/1.0.0/src
+https://github.com/jinjor/elm-map-debug/tree/master/src
 
 ## Failed
 
