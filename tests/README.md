@@ -18,3 +18,9 @@ https://github.com/jinjor/elm-map-debug/tree/master/src
 
 - AliasOfInternalAlias
   - fails with `type Msg = Msg AliasOfInternalAlias`
+- AliasOfPrivate
+- AliasOfPrivateAlias
+- WrappedOpenPrivate
+- WrappedClosedPrivate
+- WrappedOpenPrivateAlias
+- WrappedClosedPrivateAlias
