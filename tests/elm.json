@@ -7,7 +7,7 @@
     "dependencies": {
         "direct": {
             "elm/core": "1.0.2",
-            "jinjor/elm-map-debug": "1.0.0"
+            "jinjor/elm-map-debug": "1.1.0"
         },
         "indirect": {
             "elm/bytes": "1.0.7",
