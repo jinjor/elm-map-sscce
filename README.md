@@ -1,7 +1,7 @@
 Map.! SSCCE
 ====
 
-`elm make X.elm --debug` causes an Error when `Msg` type is/contains `Constructor NonExposedType`.
+`elm make X.elm --debug` causes an Error when `Msg` is/contains a type that is from non-exposed modules.
 
 ## Types that cannot be involved in Msg
 
