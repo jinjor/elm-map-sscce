@@ -3,8 +3,11 @@ https://github.com/jinjor/elm-map-debug/tree/1.0.0/src
 ## Failed
 
 - AliasOfBytes
+  - succees after `elm install elm/bytes`
 - WrappedOpenBytes
+  - succees after `elm install elm/bytes`
 - WrappedClosedBytes
+  - succees after `elm install elm/bytes`
 - AliasOfInternal
 - WrappedOpenInternal
 - WrappedClosedInternal
@@ -14,3 +17,4 @@ https://github.com/jinjor/elm-map-debug/tree/1.0.0/src
 ## Succeeded
 
 - AliasOfInternalAlias
+  - fails with `type Msg = Msg AliasOfInternalAlias`
